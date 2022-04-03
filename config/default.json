@@ -1,0 +1,5 @@
+{
+    "mongoURI":"mongodb+srv://admin:123123123@devconnector.qzrh8.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret":"e06c7b9aa6de813434a361db347e6c3d103a9a22b0c473f39edd8a1c05bb2370480cbb2d52114df35175be0bdc661d8a8cc2b955ed7298679fab228b6146439a",
+    "PORT":4200
+}
